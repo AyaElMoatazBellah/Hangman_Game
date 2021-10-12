@@ -1,0 +1,15 @@
+E:\visual studio 20122\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+E:\visual studio 20122\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+E:\visual studio 20122\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+E:\visual studio 20122\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+E:\visual studio 20122\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+E:\visual studio 20122\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+E:\visual studio 20122\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+E:\visual studio 20122\HangMen\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+E:\visual studio 20122\HangMen\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+E:\visual studio 20122\HangMen\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+E:\visual studio 20122\HangMen\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+E:\visual studio 20122\HangMen\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+E:\visual studio 20122\HangMen\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+E:\visual studio 20122\HangMen\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+E:\visual studio 20122\HangMen\WindowsFormsApplication3\obj\Debug\hang.Form1.resources
